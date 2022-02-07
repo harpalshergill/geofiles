@@ -16,7 +16,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BRN",
+                        "NAME_1": "BRN",
                         "ROMNAM": "Brunei Darussalam",
                         "MAPLAB": "Brunei Darussalam",
                         "CONTCD": "ASI",
@@ -37,7 +37,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SWZ",
+                        "NAME_1": "SWZ",
                         "ROMNAM": "Eswatini",
                         "MAPLAB": "Eswatini",
                         "CONTCD": "AFR",
@@ -81,7 +81,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GNQ",
+                        "NAME_1": "GNQ",
                         "ROMNAM": "Equatorial Guinea",
                         "MAPLAB": "Equatorial Guinea",
                         "CONTCD": "AFR",
@@ -108,7 +108,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MAC",
+                        "NAME_1": "MAC",
                         "ROMNAM": "Macao",
                         "MAPLAB": "Macao, China",
                         "CONTCD": "ASI",
@@ -145,7 +145,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MTQ",
+                        "NAME_1": "MTQ",
                         "ROMNAM": "Martinique",
                         "MAPLAB": "Martinique (Fr.)",
                         "CONTCD": "AME",
@@ -177,7 +177,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CIV",
+                        "NAME_1": "CIV",
                         "ROMNAM": "CÃ´te d'Ivoire",
                         "MAPLAB": "CÃ´te d'Ivoire",
                         "CONTCD": "AFR",
@@ -268,7 +268,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MRT",
+                        "NAME_1": "MRT",
                         "ROMNAM": "Mauritania",
                         "MAPLAB": "Mauritania",
                         "CONTCD": "AFR",
@@ -291,7 +291,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "TGO",
+                        "NAME_1": "TGO",
                         "ROMNAM": "Togo",
                         "MAPLAB": "Togo",
                         "CONTCD": "AFR",
@@ -363,7 +363,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TUV",
+                        "NAME_1": "TUV",
                         "ROMNAM": "Tuvalu",
                         "MAPLAB": "Tuvalu",
                         "CONTCD": "OCE",
@@ -455,7 +455,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "LKA",
+                        "NAME_1": "LKA",
                         "ROMNAM": "Sri Lanka",
                         "MAPLAB": "Sri Lanka",
                         "CONTCD": "ASI",
@@ -475,7 +475,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BRB",
+                        "NAME_1": "BRB",
                         "ROMNAM": "Barbados",
                         "MAPLAB": "Barbados",
                         "CONTCD": "AME",
@@ -852,7 +852,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AGO",
+                        "NAME_1": "AGO",
                         "ROMNAM": "Angola",
                         "MAPLAB": "Angola",
                         "CONTCD": "AFR",
@@ -879,7 +879,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NFK",
+                        "NAME_1": "NFK",
                         "ROMNAM": "Norfolk Island",
                         "MAPLAB": "Norfolk Island (Aust.)",
                         "CONTCD": "OCE",
@@ -3625,7 +3625,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CHN",
+                        "NAME_1": "CHN",
                         "ROMNAM": "China",
                         "MAPLAB": "China",
                         "CONTCD": "ASI",
@@ -3794,7 +3794,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SLE",
+                        "NAME_1": "SLE",
                         "ROMNAM": "Sierra Leone",
                         "MAPLAB": "Sierra Leone",
                         "CONTCD": "AFR",
@@ -3836,7 +3836,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "COM",
+                        "NAME_1": "COM",
                         "ROMNAM": "Comoros",
                         "MAPLAB": "Comoros",
                         "CONTCD": "AFR",
@@ -5337,7 +5337,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KOR",
+                        "NAME_1": "KOR",
                         "ROMNAM": "Republic of Korea",
                         "MAPLAB": "Republic of Korea",
                         "CONTCD": "ASI",
@@ -5357,7 +5357,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "PYF",
+                        "NAME_1": "PYF",
                         "ROMNAM": "Clipperton Island",
                         "MAPLAB": "Clipperton Island",
                         "CONTCD": "OCE",
@@ -7931,7 +7931,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PHL",
+                        "NAME_1": "PHL",
                         "ROMNAM": "Philippines",
                         "MAPLAB": "Philippines",
                         "CONTCD": "ASI",
@@ -8727,7 +8727,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BHS",
+                        "NAME_1": "BHS",
                         "ROMNAM": "Bahamas",
                         "MAPLAB": "Bahamas",
                         "CONTCD": "AME",
@@ -8773,7 +8773,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ARM",
+                        "NAME_1": "ARM",
                         "ROMNAM": "Armenia",
                         "MAPLAB": "Armenia",
                         "CONTCD": "ASI",
@@ -8806,7 +8806,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ROU",
+                        "NAME_1": "ROU",
                         "ROMNAM": "Romania",
                         "MAPLAB": "Romania",
                         "CONTCD": "EUR",
@@ -8826,7 +8826,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "CXR",
+                        "NAME_1": "CXR",
                         "ROMNAM": "Christmas Island",
                         "MAPLAB": "Christmas Is. (Aust.)",
                         "CONTCD": "OCE",
@@ -8853,7 +8853,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "HMD",
+                        "NAME_1": "HMD",
                         "ROMNAM": "Heard Island and McDonald Islands",
                         "MAPLAB": "Heard Is. & McDonald Is. (Aust.)",
                         "CONTCD": "AFR",
@@ -8934,7 +8934,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ZAF",
+                        "NAME_1": "ZAF",
                         "ROMNAM": "South Africa",
                         "MAPLAB": "South Africa",
                         "CONTCD": "AFR",
@@ -9642,7 +9642,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SLB",
+                        "NAME_1": "SLB",
                         "ROMNAM": "Solomon Islands",
                         "MAPLAB": "Solomon Islands",
                         "CONTCD": "OCE",
@@ -12393,7 +12393,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FIN",
+                        "NAME_1": "FIN",
                         "ROMNAM": "Finland",
                         "MAPLAB": "Finland",
                         "CONTCD": "EUR",
@@ -12413,7 +12413,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ATF",
+                        "NAME_1": "ATF",
                         "ROMNAM": "Bassas da India",
                         "MAPLAB": "Bassas da India (Fr.)",
                         "CONTCD": "AFR",
@@ -12436,7 +12436,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "CZE",
+                        "NAME_1": "CZE",
                         "ROMNAM": "Czechia",
                         "MAPLAB": "Czechia",
                         "CONTCD": "EUR",
@@ -12460,7 +12460,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BEN",
+                        "NAME_1": "BEN",
                         "ROMNAM": "Benin",
                         "MAPLAB": "Benin",
                         "CONTCD": "AFR",
@@ -12612,7 +12612,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SDN",
+                        "NAME_1": "SDN",
                         "ROMNAM": "Sudan",
                         "MAPLAB": "Sudan",
                         "CONTCD": "AFR",
@@ -12639,7 +12639,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BMU",
+                        "NAME_1": "BMU",
                         "ROMNAM": "Bermuda",
                         "MAPLAB": "Bermuda *",
                         "CONTCD": "AME",
@@ -12709,7 +12709,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NIC",
+                        "NAME_1": "NIC",
                         "ROMNAM": "Nicaragua",
                         "MAPLAB": "Nicaragua",
                         "CONTCD": "AME",
@@ -12740,7 +12740,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MNE",
+                        "NAME_1": "MNE",
                         "ROMNAM": "Montenegro",
                         "MAPLAB": "Montenegro",
                         "CONTCD": "EUR",
@@ -12765,7 +12765,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GTM",
+                        "NAME_1": "GTM",
                         "ROMNAM": "Guatemala",
                         "MAPLAB": "Guatemala",
                         "CONTCD": "AME",
@@ -12814,7 +12814,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SLV",
+                        "NAME_1": "SLV",
                         "ROMNAM": "El Salvador",
                         "MAPLAB": "El Salvador",
                         "CONTCD": "AME",
@@ -12835,7 +12835,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SSD",
+                        "NAME_1": "SSD",
                         "ROMNAM": "Ilemi Triangle",
                         "MAPLAB": null,
                         "CONTCD": "AFR",
@@ -12887,7 +12887,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SGP",
+                        "NAME_1": "SGP",
                         "ROMNAM": "Singapore",
                         "MAPLAB": "Singapore",
                         "CONTCD": "ASI",
@@ -12929,7 +12929,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ASM",
+                        "NAME_1": "ASM",
                         "ROMNAM": "American Samoa",
                         "MAPLAB": "American Samoa *",
                         "CONTCD": "OCE",
@@ -13001,7 +13001,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PLW",
+                        "NAME_1": "PLW",
                         "ROMNAM": "Palau",
                         "MAPLAB": "Palau",
                         "CONTCD": "OCE",
@@ -13033,7 +13033,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MLT",
+                        "NAME_1": "MLT",
                         "ROMNAM": "Malta",
                         "MAPLAB": "Malta",
                         "CONTCD": "EUR",
@@ -13053,7 +13053,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "NRU",
+                        "NAME_1": "NRU",
                         "ROMNAM": "Nauru",
                         "MAPLAB": "Nauru",
                         "CONTCD": "OCE",
@@ -13433,7 +13433,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VEN",
+                        "NAME_1": "VEN",
                         "ROMNAM": "Venezuela",
                         "MAPLAB": "Venezuela",
                         "CONTCD": "AME",
@@ -13465,7 +13465,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "WLF",
+                        "NAME_1": "WLF",
                         "ROMNAM": "Wallis and Futuna",
                         "MAPLAB": null,
                         "CONTCD": "OCE",
@@ -13916,7 +13916,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PAK",
+                        "NAME_1": "PAK",
                         "ROMNAM": "Pakistan",
                         "MAPLAB": "Pakistan",
                         "CONTCD": "ASI",
@@ -13941,7 +13941,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BFA",
+                        "NAME_1": "BFA",
                         "ROMNAM": "Burkina Faso",
                         "MAPLAB": "Burkina Faso",
                         "CONTCD": "AFR",
@@ -13963,7 +13963,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SDN",
+                        "NAME_1": "SDN",
                         "ROMNAM": "Hala'ib Triangle",
                         "MAPLAB": null,
                         "CONTCD": "AFR",
@@ -14005,7 +14005,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "WSM",
+                        "NAME_1": "WSM",
                         "ROMNAM": "Samoa",
                         "MAPLAB": "Samoa",
                         "CONTCD": "OCE",
@@ -14030,7 +14030,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "CAF",
+                        "NAME_1": "CAF",
                         "ROMNAM": "Central African Republic",
                         "MAPLAB": "Central African Republic",
                         "CONTCD": "AFR",
@@ -14062,7 +14062,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "xSK",
+                        "NAME_1": "xSK",
                         "ROMNAM": "Senkaku Islands",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -14289,7 +14289,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ISL",
+                        "NAME_1": "ISL",
                         "ROMNAM": "Iceland",
                         "MAPLAB": "Iceland",
                         "CONTCD": "EUR",
@@ -14894,7 +14894,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FJI",
+                        "NAME_1": "FJI",
                         "ROMNAM": "Fiji",
                         "MAPLAB": "Fiji",
                         "CONTCD": "OCE",
@@ -15541,7 +15541,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CUB",
+                        "NAME_1": "CUB",
                         "ROMNAM": "Cuba",
                         "MAPLAB": "Cuba",
                         "CONTCD": "AME",
@@ -15588,7 +15588,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GLP",
+                        "NAME_1": "GLP",
                         "ROMNAM": "Guadeloupe",
                         "MAPLAB": "Guadeloupe (Fr.)",
                         "CONTCD": "AME",
@@ -15683,7 +15683,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "UKR",
+                        "NAME_1": "UKR",
                         "ROMNAM": "Ukraine",
                         "MAPLAB": "Ukraine",
                         "CONTCD": "EUR",
@@ -15760,7 +15760,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ESP",
+                        "NAME_1": "ESP",
                         "ROMNAM": "Canary Islands",
                         "MAPLAB": "Canary Islands (Sp.)",
                         "CONTCD": "EUR",
@@ -15780,7 +15780,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MSR",
+                        "NAME_1": "MSR",
                         "ROMNAM": "Montserrat",
                         "MAPLAB": "Montserrat *",
                         "CONTCD": "AME",
@@ -20907,7 +20907,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AUS",
+                        "NAME_1": "AUS",
                         "ROMNAM": "Australia",
                         "MAPLAB": "Australia",
                         "CONTCD": "OCE",
@@ -21163,7 +21163,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "DEU",
+                        "NAME_1": "DEU",
                         "ROMNAM": "Germany",
                         "MAPLAB": "Germany",
                         "CONTCD": "EUR",
@@ -21195,7 +21195,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SPM",
+                        "NAME_1": "SPM",
                         "ROMNAM": "Saint Pierre et Miquelon",
                         "MAPLAB": "Saint Pierre et Miquelon (Fr.)",
                         "CONTCD": "AME",
@@ -21499,7 +21499,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TUN",
+                        "NAME_1": "TUN",
                         "ROMNAM": "Tunisia",
                         "MAPLAB": "Tunisia",
                         "CONTCD": "AFR",
@@ -21541,7 +21541,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "xPI",
+                        "NAME_1": "xPI",
                         "ROMNAM": "Paracel Islands",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -21583,7 +21583,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "xSR",
+                        "NAME_1": "xSR",
                         "ROMNAM": "Scarborough Reef",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -21603,7 +21603,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BES",
+                        "NAME_1": "BES",
                         "ROMNAM": "Saba",
                         "MAPLAB": "Saba (Neth.)",
                         "CONTCD": "AME",
@@ -21625,7 +21625,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "PSE",
+                        "NAME_1": "PSE",
                         "ROMNAM": "Gaza",
                         "MAPLAB": "Gaza",
                         "CONTCD": "ASI",
@@ -21648,7 +21648,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "xAP",
+                        "NAME_1": "xAP",
                         "ROMNAM": "Arunachal Pradesh",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -21725,7 +21725,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "xRI",
+                        "NAME_1": "xRI",
                         "ROMNAM": null,
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -21779,7 +21779,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GUF",
+                        "NAME_1": "GUF",
                         "ROMNAM": "French Guiana",
                         "MAPLAB": "French Guiana (Fr.)",
                         "CONTCD": "AME",
@@ -22528,7 +22528,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MYS",
+                        "NAME_1": "MYS",
                         "ROMNAM": "Malaysia",
                         "MAPLAB": "Malaysia",
                         "CONTCD": "ASI",
@@ -22549,7 +22549,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "PSE",
+                        "NAME_1": "PSE",
                         "ROMNAM": "West Bank",
                         "MAPLAB": "West Bank",
                         "CONTCD": "ASI",
@@ -22838,7 +22838,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "YEM",
+                        "NAME_1": "YEM",
                         "ROMNAM": "Yemen",
                         "MAPLAB": "Yemen",
                         "CONTCD": "ASI",
@@ -22860,7 +22860,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LBN",
+                        "NAME_1": "LBN",
                         "ROMNAM": "Lebanon",
                         "MAPLAB": "Lebanon",
                         "CONTCD": "ASI",
@@ -22896,7 +22896,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NGA",
+                        "NAME_1": "NGA",
                         "ROMNAM": "Nigeria",
                         "MAPLAB": "Nigeria",
                         "CONTCD": "AFR",
@@ -23158,7 +23158,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ALA",
+                        "NAME_1": "ALA",
                         "ROMNAM": "Ã…land Islands",
                         "MAPLAB": "Ã…land Islands",
                         "CONTCD": "EUR",
@@ -23580,7 +23580,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FLK",
+                        "NAME_1": "FLK",
                         "ROMNAM": "Falkland Islands (Malvinas)",
                         "MAPLAB": "Falkland Islands (Malvinas) ***",
                         "CONTCD": "AME",
@@ -23600,7 +23600,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "JEY",
+                        "NAME_1": "JEY",
                         "ROMNAM": "Jersey",
                         "MAPLAB": "Jersey (UK)",
                         "CONTCD": "EUR",
@@ -23730,7 +23730,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GUY",
+                        "NAME_1": "GUY",
                         "ROMNAM": "Guyana",
                         "MAPLAB": "Guyana",
                         "CONTCD": "AME",
@@ -23792,7 +23792,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VIR",
+                        "NAME_1": "VIR",
                         "ROMNAM": "United States Virgin Islands",
                         "MAPLAB": "United States Virgin Islands *",
                         "CONTCD": null,
@@ -24604,7 +24604,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MDG",
+                        "NAME_1": "MDG",
                         "ROMNAM": "Madagascar",
                         "MAPLAB": "Madagascar",
                         "CONTCD": "AFR",
@@ -24625,7 +24625,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "AND",
+                        "NAME_1": "AND",
                         "ROMNAM": "Andorra",
                         "MAPLAB": "Andorra",
                         "CONTCD": "EUR",
@@ -27169,7 +27169,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SWE",
+                        "NAME_1": "SWE",
                         "ROMNAM": "Sweden",
                         "MAPLAB": "Sweden",
                         "CONTCD": "EUR",
@@ -27206,7 +27206,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MUS",
+                        "NAME_1": "MUS",
                         "ROMNAM": "Mauritius",
                         "MAPLAB": "Mauritius",
                         "CONTCD": "AFR",
@@ -27230,7 +27230,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UGA",
+                        "NAME_1": "UGA",
                         "ROMNAM": "Uganda",
                         "MAPLAB": "Uganda",
                         "CONTCD": "AFR",
@@ -27251,7 +27251,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MDA",
+                        "NAME_1": "MDA",
                         "ROMNAM": "Moldova",
                         "MAPLAB": "Moldova",
                         "CONTCD": "EUR",
@@ -27271,7 +27271,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BES",
+                        "NAME_1": "BES",
                         "ROMNAM": "Sint Eustatius",
                         "MAPLAB": "Sint Eustatius (Neth.)",
                         "CONTCD": "AME",
@@ -27340,7 +27340,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KWT",
+                        "NAME_1": "KWT",
                         "ROMNAM": "Kuwait",
                         "MAPLAB": "Kuwait",
                         "CONTCD": "ASI",
@@ -27378,7 +27378,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TKL",
+                        "NAME_1": "TKL",
                         "ROMNAM": "Tokelau",
                         "MAPLAB": "Tokelau *",
                         "CONTCD": "OCE",
@@ -27405,7 +27405,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "JAM",
+                        "NAME_1": "JAM",
                         "ROMNAM": "Jamaica",
                         "MAPLAB": "Jamaica",
                         "CONTCD": "AME",
@@ -27426,7 +27426,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "EGY",
+                        "NAME_1": "EGY",
                         "ROMNAM": "Bi'r TawÄ«l",
                         "MAPLAB": null,
                         "CONTCD": "AFR",
@@ -27447,7 +27447,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GMB",
+                        "NAME_1": "GMB",
                         "ROMNAM": "Gambia",
                         "MAPLAB": "Gambia",
                         "CONTCD": "AFR",
@@ -27467,7 +27467,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Baker Island",
                         "MAPLAB": "Baker Island (USA)",
                         "CONTCD": "OCE",
@@ -27488,7 +27488,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MCO",
+                        "NAME_1": "MCO",
                         "ROMNAM": "Monaco",
                         "MAPLAB": "Monaco",
                         "CONTCD": "EUR",
@@ -28624,7 +28624,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IND",
+                        "NAME_1": "IND",
                         "ROMNAM": "India",
                         "MAPLAB": "India",
                         "CONTCD": "ASI",
@@ -28644,7 +28644,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SHN",
+                        "NAME_1": "SHN",
                         "ROMNAM": "Saint Helena",
                         "MAPLAB": "Ascencion *",
                         "CONTCD": "AFR",
@@ -28861,7 +28861,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ATF",
+                        "NAME_1": "ATF",
                         "ROMNAM": "French Southern Territories",
                         "MAPLAB": "French Southern Territories (Fr.)",
                         "CONTCD": "AFR",
@@ -28893,7 +28893,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SHN",
+                        "NAME_1": "SHN",
                         "ROMNAM": "Saint Helena",
                         "MAPLAB": "Tristan da Cunha *",
                         "CONTCD": "AFR",
@@ -29600,7 +29600,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "THA",
+                        "NAME_1": "THA",
                         "ROMNAM": "Thailand",
                         "MAPLAB": "Thailand",
                         "CONTCD": "ASI",
@@ -29625,7 +29625,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "TCD",
+                        "NAME_1": "TCD",
                         "ROMNAM": "Chad",
                         "MAPLAB": "Chad",
                         "CONTCD": "AFR",
@@ -30571,7 +30571,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PYF",
+                        "NAME_1": "PYF",
                         "ROMNAM": "French Polynesia",
                         "MAPLAB": "French Polynesia *",
                         "CONTCD": "OCE",
@@ -30605,7 +30605,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "DZA",
+                        "NAME_1": "DZA",
                         "ROMNAM": "Algeria",
                         "MAPLAB": "Algeria",
                         "CONTCD": "AFR",
@@ -30750,7 +30750,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BLZ",
+                        "NAME_1": "BLZ",
                         "ROMNAM": "Belize",
                         "MAPLAB": "Belize",
                         "CONTCD": "AME",
@@ -30770,7 +30770,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Jarvis Island",
                         "MAPLAB": "Jarvis Island (USA)",
                         "CONTCD": "OCE",
@@ -31092,7 +31092,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ITA",
+                        "NAME_1": "ITA",
                         "ROMNAM": "Italy",
                         "MAPLAB": "Italy",
                         "CONTCD": "EUR",
@@ -31211,7 +31211,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "OMN",
+                        "NAME_1": "OMN",
                         "ROMNAM": "Oman",
                         "MAPLAB": "Oman",
                         "CONTCD": "ASI",
@@ -31276,7 +31276,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AZE",
+                        "NAME_1": "AZE",
                         "ROMNAM": "Azerbaijan",
                         "MAPLAB": "Azerbaijan",
                         "CONTCD": "ASI",
@@ -31299,7 +31299,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GHA",
+                        "NAME_1": "GHA",
                         "ROMNAM": "Ghana",
                         "MAPLAB": "Ghana",
                         "CONTCD": "AFR",
@@ -31807,7 +31807,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "HRV",
+                        "NAME_1": "HRV",
                         "ROMNAM": "Croatia",
                         "MAPLAB": "Croatia",
                         "CONTCD": "EUR",
@@ -32326,7 +32326,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "EGY",
+                        "NAME_1": "EGY",
                         "ROMNAM": "Egypt",
                         "MAPLAB": "Egypt",
                         "CONTCD": "AFR",
@@ -32513,7 +32513,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FSM",
+                        "NAME_1": "FSM",
                         "ROMNAM": "Micronesia (Federated States of)",
                         "MAPLAB": "Micronesia (Federated States of)",
                         "CONTCD": "OCE",
@@ -32545,7 +32545,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Kingman Reef",
                         "MAPLAB": "Kingman Reef (USA)",
                         "CONTCD": "OCE",
@@ -33032,7 +33032,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MDV",
+                        "NAME_1": "MDV",
                         "ROMNAM": "Maldives",
                         "MAPLAB": "Maldives",
                         "CONTCD": "ASI",
@@ -33104,7 +33104,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "COD",
+                        "NAME_1": "COD",
                         "ROMNAM": "Democratic Republic of the Congo",
                         "MAPLAB": "Democratic Republic of the Congo",
                         "CONTCD": "AFR",
@@ -33128,7 +33128,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GEO",
+                        "NAME_1": "GEO",
                         "ROMNAM": "Georgia",
                         "MAPLAB": "Georgia",
                         "CONTCD": "EUR",
@@ -33154,7 +33154,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ZMB",
+                        "NAME_1": "ZMB",
                         "ROMNAM": "Zambia",
                         "MAPLAB": "Zambia",
                         "CONTCD": "AFR",
@@ -33361,7 +33361,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SYC",
+                        "NAME_1": "SYC",
                         "ROMNAM": "Seychelles",
                         "MAPLAB": "Seychelles",
                         "CONTCD": "AFR",
@@ -33386,7 +33386,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BGR",
+                        "NAME_1": "BGR",
                         "ROMNAM": "Bulgaria",
                         "MAPLAB": "Bulgaria",
                         "CONTCD": "EUR",
@@ -39958,7 +39958,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GRL",
+                        "NAME_1": "GRL",
                         "ROMNAM": "Greenland",
                         "MAPLAB": "Greenland (Denmark)",
                         "CONTCD": "--",
@@ -39991,7 +39991,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IRQ",
+                        "NAME_1": "IRQ",
                         "ROMNAM": "Iraq",
                         "MAPLAB": "Iraq",
                         "CONTCD": "ASI",
@@ -40041,7 +40041,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TLS",
+                        "NAME_1": "TLS",
                         "ROMNAM": "Timor-Leste",
                         "MAPLAB": "Timor-Leste",
                         "CONTCD": "ASI",
@@ -40292,7 +40292,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FRA",
+                        "NAME_1": "FRA",
                         "ROMNAM": "France",
                         "MAPLAB": "France",
                         "CONTCD": "EUR",
@@ -40318,7 +40318,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "NER",
+                        "NAME_1": "NER",
                         "ROMNAM": "Niger",
                         "MAPLAB": "Niger",
                         "CONTCD": "AFR",
@@ -40855,7 +40855,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SJM",
+                        "NAME_1": "SJM",
                         "ROMNAM": "Svalbard and Jan Mayen Islands",
                         "MAPLAB": "Svalbard & Jan Mayen Is. (Norw.)",
                         "CONTCD": "EUR",
@@ -40877,7 +40877,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BDI",
+                        "NAME_1": "BDI",
                         "ROMNAM": "Burundi",
                         "MAPLAB": "Burundi",
                         "CONTCD": "AFR",
@@ -40897,7 +40897,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SMR",
+                        "NAME_1": "SMR",
                         "ROMNAM": "San Marino",
                         "MAPLAB": "San Marino",
                         "CONTCD": "EUR",
@@ -41111,7 +41111,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "EST",
+                        "NAME_1": "EST",
                         "ROMNAM": "Estonia",
                         "MAPLAB": "Estonia",
                         "CONTCD": "EUR",
@@ -42349,7 +42349,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GBR",
+                        "NAME_1": "GBR",
                         "ROMNAM": "United Kingdom of Great Britain & Northern Ireland",
                         "MAPLAB": "United Kingdom of Great Britain & Northern Ireland",
                         "CONTCD": "EUR",
@@ -42444,7 +42444,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SOM",
+                        "NAME_1": "SOM",
                         "ROMNAM": "Somalia",
                         "MAPLAB": "Somalia",
                         "CONTCD": "AFR",
@@ -42475,7 +42475,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ALB",
+                        "NAME_1": "ALB",
                         "ROMNAM": "Albania",
                         "MAPLAB": "Albania",
                         "CONTCD": "EUR",
@@ -42637,7 +42637,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "xSI",
+                        "NAME_1": "xSI",
                         "ROMNAM": "Spratly Islands",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -42659,7 +42659,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BWA",
+                        "NAME_1": "BWA",
                         "ROMNAM": "Botswana",
                         "MAPLAB": "Botswana",
                         "CONTCD": "AFR",
@@ -42679,7 +42679,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "REU",
+                        "NAME_1": "REU",
                         "ROMNAM": "RÃ©union",
                         "MAPLAB": "RÃ©union (Fr.)",
                         "CONTCD": "AFR",
@@ -42832,7 +42832,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NLD",
+                        "NAME_1": "NLD",
                         "ROMNAM": "Netherlands",
                         "MAPLAB": "Netherlands",
                         "CONTCD": "EUR",
@@ -42863,7 +42863,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "CHE",
+                        "NAME_1": "CHE",
                         "ROMNAM": "Schweiz#Suisse#Svizzera#Svizra",
                         "MAPLAB": "Switzerland",
                         "CONTCD": "EUR",
@@ -43238,7 +43238,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ECU",
+                        "NAME_1": "ECU",
                         "ROMNAM": "Ecuador",
                         "MAPLAB": "Ecuador",
                         "CONTCD": "AME",
@@ -43311,7 +43311,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "HTI",
+                        "NAME_1": "HTI",
                         "ROMNAM": "Haiti",
                         "MAPLAB": "Haiti",
                         "CONTCD": "AME",
@@ -43338,7 +43338,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AUS",
+                        "NAME_1": "AUS",
                         "ROMNAM": "Ashmore and Cartier Islands",
                         "MAPLAB": "Ashmore & Cartier Is. (Aust.)",
                         "CONTCD": "OCE",
@@ -43365,7 +43365,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SRB",
+                        "NAME_1": "SRB",
                         "ROMNAM": "Serbia",
                         "MAPLAB": "Serbia",
                         "CONTCD": "EUR",
@@ -47675,7 +47675,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NOR",
+                        "NAME_1": "NOR",
                         "ROMNAM": "Norway",
                         "MAPLAB": "Norway",
                         "CONTCD": "EUR",
@@ -48265,7 +48265,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VNM",
+                        "NAME_1": "VNM",
                         "ROMNAM": "Viet Nam",
                         "MAPLAB": "Viet Nam",
                         "CONTCD": "ASI",
@@ -48708,7 +48708,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "DNK",
+                        "NAME_1": "DNK",
                         "ROMNAM": "Denmark",
                         "MAPLAB": "Denmark",
                         "CONTCD": "EUR",
@@ -74105,7 +74105,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CAN",
+                        "NAME_1": "CAN",
                         "ROMNAM": "Canada",
                         "MAPLAB": "Canada",
                         "CONTCD": "AME",
@@ -74126,7 +74126,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "xAC",
+                        "NAME_1": "xAC",
                         "ROMNAM": "Aksai Chin",
                         "MAPLAB": null,
                         "CONTCD": "ASI",
@@ -74159,7 +74159,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CMR",
+                        "NAME_1": "CMR",
                         "ROMNAM": "Cameroon",
                         "MAPLAB": "Cameroon",
                         "CONTCD": "AFR",
@@ -74179,7 +74179,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Navassa Island",
                         "MAPLAB": "Navassa Island (USA)",
                         "CONTCD": "AME",
@@ -74232,7 +74232,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PRT",
+                        "NAME_1": "PRT",
                         "ROMNAM": "Portugal",
                         "MAPLAB": "Portugal",
                         "CONTCD": "EUR",
@@ -74254,7 +74254,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "PRY",
+                        "NAME_1": "PRY",
                         "ROMNAM": "Paraguay",
                         "MAPLAB": "Paraguay",
                         "CONTCD": "AME",
@@ -74274,7 +74274,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Howland Island",
                         "MAPLAB": "Howland Island (USA)",
                         "CONTCD": "OCE",
@@ -74300,7 +74300,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "JOR",
+                        "NAME_1": "JOR",
                         "ROMNAM": "Jordan",
                         "MAPLAB": "Jordan",
                         "CONTCD": "ASI",
@@ -74337,7 +74337,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MYT",
+                        "NAME_1": "MYT",
                         "ROMNAM": "Mayotte",
                         "MAPLAB": "Mayotte",
                         "CONTCD": "AFR",
@@ -74358,7 +74358,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LIE",
+                        "NAME_1": "LIE",
                         "ROMNAM": "Liechtenstein",
                         "MAPLAB": "Liechtenstein",
                         "CONTCD": "EUR",
@@ -80403,7 +80403,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "USA",
+                        "NAME_1": "USA",
                         "ROMNAM": "United States of America",
                         "MAPLAB": "United States of America",
                         "CONTCD": "AME",
@@ -80430,7 +80430,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BLR",
+                        "NAME_1": "BLR",
                         "ROMNAM": "Belarus",
                         "MAPLAB": "Belarus",
                         "CONTCD": "EUR",
@@ -80454,7 +80454,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SVN",
+                        "NAME_1": "SVN",
                         "ROMNAM": "Slovenia",
                         "MAPLAB": "Slovenia",
                         "CONTCD": "EUR",
@@ -80923,7 +80923,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IRL",
+                        "NAME_1": "IRL",
                         "ROMNAM": "Ireland",
                         "MAPLAB": "Ireland",
                         "CONTCD": "EUR",
@@ -80990,7 +80990,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PRI",
+                        "NAME_1": "PRI",
                         "ROMNAM": "Puerto Rico (USA)",
                         "MAPLAB": "Puerto Rico (USA)",
                         "CONTCD": "AME",
@@ -81014,7 +81014,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "TKM",
+                        "NAME_1": "TKM",
                         "ROMNAM": "Turkmenistan",
                         "MAPLAB": "Turkmenistan",
                         "CONTCD": "ASI",
@@ -81037,7 +81037,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LBR",
+                        "NAME_1": "LBR",
                         "ROMNAM": "Liberia",
                         "MAPLAB": "Liberia",
                         "CONTCD": "AFR",
@@ -81071,7 +81071,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MWI",
+                        "NAME_1": "MWI",
                         "ROMNAM": "Malawi",
                         "MAPLAB": "Malawi",
                         "CONTCD": "AFR",
@@ -81158,7 +81158,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CPV",
+                        "NAME_1": "CPV",
                         "ROMNAM": "Cabo Verde",
                         "MAPLAB": "Cape Verde",
                         "CONTCD": "AFR",
@@ -81183,7 +81183,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "COG",
+                        "NAME_1": "COG",
                         "ROMNAM": "Congo",
                         "MAPLAB": "Congo",
                         "CONTCD": "AFR",
@@ -88159,7 +88159,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CHL",
+                        "NAME_1": "CHL",
                         "ROMNAM": "Chile",
                         "MAPLAB": "Chile",
                         "CONTCD": "AME",
@@ -88327,7 +88327,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "HKG",
+                        "NAME_1": "HKG",
                         "ROMNAM": "Hong Kong",
                         "MAPLAB": "Hong Kong, China",
                         "CONTCD": "ASI",
@@ -88347,7 +88347,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ABW",
+                        "NAME_1": "ABW",
                         "ROMNAM": "Aruba",
                         "MAPLAB": "Aruba (Neth.)",
                         "CONTCD": "AME",
@@ -88371,7 +88371,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BIH",
+                        "NAME_1": "BIH",
                         "ROMNAM": "Bosnia and Herzegovina",
                         "MAPLAB": "Bosnia and Herzegovina",
                         "CONTCD": "EUR",
@@ -88547,7 +88547,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ESP",
+                        "NAME_1": "ESP",
                         "ROMNAM": "Spain",
                         "MAPLAB": "Spain",
                         "CONTCD": "EUR",
@@ -88576,7 +88576,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SSD",
+                        "NAME_1": "SSD",
                         "ROMNAM": "South Sudan",
                         "MAPLAB": "South Sudan",
                         "CONTCD": "AFR",
@@ -88618,7 +88618,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GRD",
+                        "NAME_1": "GRD",
                         "ROMNAM": "Grenada",
                         "MAPLAB": "Grenada",
                         "CONTCD": "AME",
@@ -88639,7 +88639,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MNG",
+                        "NAME_1": "MNG",
                         "ROMNAM": "Mongolia",
                         "MAPLAB": "Mongolia",
                         "CONTCD": "ASI",
@@ -88809,7 +88809,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CRI",
+                        "NAME_1": "CRI",
                         "ROMNAM": "Costa Rica",
                         "MAPLAB": "Costa Rica",
                         "CONTCD": "AME",
@@ -88833,7 +88833,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ZWE",
+                        "NAME_1": "ZWE",
                         "ROMNAM": "Zimbabwe",
                         "MAPLAB": "Zimbabwe",
                         "CONTCD": "AFR",
@@ -88860,7 +88860,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KNA",
+                        "NAME_1": "KNA",
                         "ROMNAM": "Saint Kitts and Nevis",
                         "MAPLAB": "Saint Kitts and Nevis",
                         "CONTCD": "AME",
@@ -88880,7 +88880,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Wake Island",
                         "MAPLAB": "Wake Island (USA)",
                         "CONTCD": "OCE",
@@ -88920,7 +88920,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TJK",
+                        "NAME_1": "TJK",
                         "ROMNAM": "Tajikistan",
                         "MAPLAB": "Tajikistan",
                         "CONTCD": "ASI",
@@ -88957,7 +88957,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ATG",
+                        "NAME_1": "ATG",
                         "ROMNAM": "Antigua and Barbuda",
                         "MAPLAB": "Antigua and Barbuda",
                         "CONTCD": "AME",
@@ -90634,7 +90634,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ATA",
+                        "NAME_1": "ATA",
                         "ROMNAM": "Antarctica",
                         "MAPLAB": "Antarctica",
                         "CONTCD": "--",
@@ -91012,7 +91012,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ARG",
+                        "NAME_1": "ARG",
                         "ROMNAM": "Argentina",
                         "MAPLAB": "Argentina",
                         "CONTCD": "AME",
@@ -91032,7 +91032,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SHN",
+                        "NAME_1": "SHN",
                         "ROMNAM": "Saint Helena",
                         "MAPLAB": "Saint Helena *",
                         "CONTCD": "AFR",
@@ -91052,7 +91052,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SHN",
+                        "NAME_1": "SHN",
                         "ROMNAM": "Saint Helena",
                         "MAPLAB": "Gough *",
                         "CONTCD": "AFR",
@@ -91336,7 +91336,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KIR",
+                        "NAME_1": "KIR",
                         "ROMNAM": "Kiribati",
                         "MAPLAB": "Kiribati",
                         "CONTCD": "OCE",
@@ -91364,7 +91364,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MAF",
+                        "NAME_1": "MAF",
                         "ROMNAM": "Saint Martin",
                         "MAPLAB": "Saint Martin (Fr.)",
                         "CONTCD": "AME",
@@ -91390,7 +91390,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LTU",
+                        "NAME_1": "LTU",
                         "ROMNAM": "Lithuania",
                         "MAPLAB": "Lithuania",
                         "CONTCD": "EUR",
@@ -91685,7 +91685,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IRN",
+                        "NAME_1": "IRN",
                         "ROMNAM": "Iran (Islamic Republic of)",
                         "MAPLAB": "Iran (Islamic Republic of)",
                         "CONTCD": "ASI",
@@ -91987,7 +91987,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VUT",
+                        "NAME_1": "VUT",
                         "ROMNAM": "Vanuatu",
                         "MAPLAB": "Vanuatu",
                         "CONTCD": "OCE",
@@ -92049,7 +92049,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PRT",
+                        "NAME_1": "PRT",
                         "ROMNAM": "Azores Islands",
                         "MAPLAB": "Azores Islands (Port.)",
                         "CONTCD": "EUR",
@@ -92070,7 +92070,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GIB",
+                        "NAME_1": "GIB",
                         "ROMNAM": "Gibraltar",
                         "MAPLAB": "Gibraltar *",
                         "CONTCD": "EUR",
@@ -92090,7 +92090,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "NIU",
+                        "NAME_1": "NIU",
                         "ROMNAM": "Niue",
                         "MAPLAB": "Niue",
                         "CONTCD": "OCE",
@@ -92114,7 +92114,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SVK",
+                        "NAME_1": "SVK",
                         "ROMNAM": "Slovakia",
                         "MAPLAB": "Slovakia",
                         "CONTCD": "EUR",
@@ -92304,7 +92304,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TON",
+                        "NAME_1": "TON",
                         "ROMNAM": "Tonga",
                         "MAPLAB": "Tonga",
                         "CONTCD": "OCE",
@@ -92325,7 +92325,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "xAB",
+                        "NAME_1": "xAB",
                         "ROMNAM": "Abyei",
                         "MAPLAB": "Abyei",
                         "CONTCD": "AFR",
@@ -93641,7 +93641,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GRC",
+                        "NAME_1": "GRC",
                         "ROMNAM": "Greece",
                         "MAPLAB": "Greece",
                         "CONTCD": "EUR",
@@ -93661,7 +93661,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "VAT",
+                        "NAME_1": "VAT",
                         "ROMNAM": "Holy See",
                         "MAPLAB": "Holy See",
                         "CONTCD": "EUR",
@@ -94196,7 +94196,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TZA",
+                        "NAME_1": "TZA",
                         "ROMNAM": "United Republic of Tanzania",
                         "MAPLAB": "United Republic of Tanzania",
                         "CONTCD": "AFR",
@@ -94216,7 +94216,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BLM",
+                        "NAME_1": "BLM",
                         "ROMNAM": "Saint BarthÃ©lemy",
                         "MAPLAB": "Saint BarthÃ©lemy (Fr.)",
                         "CONTCD": "AME",
@@ -94283,7 +94283,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "POL",
+                        "NAME_1": "POL",
                         "ROMNAM": "Poland",
                         "MAPLAB": "Poland",
                         "CONTCD": "EUR",
@@ -94303,7 +94303,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "VEN",
+                        "NAME_1": "VEN",
                         "ROMNAM": "Bird Island",
                         "MAPLAB": null,
                         "CONTCD": "AME",
@@ -94329,7 +94329,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MLI",
+                        "NAME_1": "MLI",
                         "ROMNAM": "Mali",
                         "MAPLAB": "Mali",
                         "CONTCD": "AFR",
@@ -94451,7 +94451,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "COK",
+                        "NAME_1": "COK",
                         "ROMNAM": "Cook Islands",
                         "MAPLAB": "Cook Islands",
                         "CONTCD": "OCE",
@@ -94613,7 +94613,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TWN",
+                        "NAME_1": "TWN",
                         "ROMNAM": "Taiwan",
                         "MAPLAB": "Taiwan",
                         "CONTCD": "ASI",
@@ -94670,7 +94670,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VCT",
+                        "NAME_1": "VCT",
                         "ROMNAM": "Saint Vincent and the Grenadines",
                         "MAPLAB": "Saint Vincent and the Grenadines",
                         "CONTCD": "AME",
@@ -94692,7 +94692,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BTN",
+                        "NAME_1": "BTN",
                         "ROMNAM": "Bhutan",
                         "MAPLAB": "Bhutan",
                         "CONTCD": "ASI",
@@ -94759,7 +94759,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "VGB",
+                        "NAME_1": "VGB",
                         "ROMNAM": "British Virgin Islands",
                         "MAPLAB": "British Virgin Islands *",
                         "CONTCD": "AME",
@@ -94812,7 +94812,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SEN",
+                        "NAME_1": "SEN",
                         "ROMNAM": "Senegal",
                         "MAPLAB": "Senegal",
                         "CONTCD": "AFR",
@@ -94837,7 +94837,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ETH",
+                        "NAME_1": "ETH",
                         "ROMNAM": "Ethiopia",
                         "MAPLAB": "Ethiopia",
                         "CONTCD": "AFR",
@@ -95004,7 +95004,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SDN",
+                        "NAME_1": "SDN",
                         "ROMNAM": "Hala'ib Triangle",
                         "MAPLAB": null,
                         "CONTCD": "AFR",
@@ -95024,7 +95024,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Palmyra Atoll",
                         "MAPLAB": "Palmyra Atoll (USA)",
                         "CONTCD": "OCE",
@@ -95518,7 +95518,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PAN",
+                        "NAME_1": "PAN",
                         "ROMNAM": "Panama",
                         "MAPLAB": "Panama",
                         "CONTCD": "AME",
@@ -95543,7 +95543,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "xJK",
+                        "NAME_1": "xJK",
                         "ROMNAM": "Jammu and Kashmir",
                         "MAPLAB": "Jammu and Kashmir **",
                         "CONTCD": "ASI",
@@ -105226,7 +105226,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IDN",
+                        "NAME_1": "IDN",
                         "ROMNAM": "Indonesia",
                         "MAPLAB": "Indonesia",
                         "CONTCD": "ASI",
@@ -105404,7 +105404,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "COL",
+                        "NAME_1": "COL",
                         "ROMNAM": "Colombia",
                         "MAPLAB": "Colombia",
                         "CONTCD": "AME",
@@ -108113,7 +108113,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MMR",
+                        "NAME_1": "MMR",
                         "ROMNAM": "Myanmar",
                         "MAPLAB": "Myanmar",
                         "CONTCD": "ASI",
@@ -108225,7 +108225,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SGS",
+                        "NAME_1": "SGS",
                         "ROMNAM": "South Georgia and the South Sandwich Islands",
                         "MAPLAB": "South Georgia and the South Sandwich Is.",
                         "CONTCD": "AME",
@@ -109006,7 +109006,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NZL",
+                        "NAME_1": "NZL",
                         "ROMNAM": "New Zealand",
                         "MAPLAB": "New Zealand",
                         "CONTCD": "OCE",
@@ -109033,7 +109033,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CYP",
+                        "NAME_1": "CYP",
                         "ROMNAM": "Cyprus",
                         "MAPLAB": "Cyprus",
                         "CONTCD": "EUR",
@@ -109058,7 +109058,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "KAZ",
+                        "NAME_1": "KAZ",
                         "ROMNAM": "Kazakhstan",
                         "MAPLAB": "Kazakhstan",
                         "CONTCD": "ASI",
@@ -109095,7 +109095,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PCN",
+                        "NAME_1": "PCN",
                         "ROMNAM": "Pitcairn",
                         "MAPLAB": "Pitcairn *",
                         "CONTCD": "OCE",
@@ -109177,7 +109177,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MUS",
+                        "NAME_1": "MUS",
                         "ROMNAM": "Chagos Archipelago",
                         "MAPLAB": "Chagos Archipelago (Mauritius)",
                         "CONTCD": "ASI",
@@ -109204,7 +109204,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CUW",
+                        "NAME_1": "CUW",
                         "ROMNAM": "CuraÃ§ao",
                         "MAPLAB": "CuraÃ§ao (Neth.)",
                         "CONTCD": "EUR",
@@ -109298,7 +109298,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "URY",
+                        "NAME_1": "URY",
                         "ROMNAM": "Uruguay",
                         "MAPLAB": "Uruguay",
                         "CONTCD": "AME",
@@ -109325,7 +109325,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "IMN",
+                        "NAME_1": "IMN",
                         "ROMNAM": "Isle of Man",
                         "MAPLAB": "Isle of Man (UK)",
                         "CONTCD": "EUR",
@@ -109349,7 +109349,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LAO",
+                        "NAME_1": "LAO",
                         "ROMNAM": "Lao People's Democratic Republic",
                         "MAPLAB": "Lao People's Democratic Republic",
                         "CONTCD": "ASI",
@@ -110440,7 +110440,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SAU",
+                        "NAME_1": "SAU",
                         "ROMNAM": "Saudi Arabia",
                         "MAPLAB": "Saudi Arabia",
                         "CONTCD": "ASI",
@@ -110462,7 +110462,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LUX",
+                        "NAME_1": "LUX",
                         "ROMNAM": "Luxembourg",
                         "MAPLAB": "Luxembourg",
                         "CONTCD": "EUR",
@@ -110482,7 +110482,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "DMA",
+                        "NAME_1": "DMA",
                         "ROMNAM": "Dominica",
                         "MAPLAB": "Dominica",
                         "CONTCD": "AME",
@@ -110502,7 +110502,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Johnston Atoll",
                         "MAPLAB": "Johnston Atoll (USA)",
                         "CONTCD": "OCE",
@@ -110522,7 +110522,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "GUM",
+                        "NAME_1": "GUM",
                         "ROMNAM": "Guam",
                         "MAPLAB": "Guam *",
                         "CONTCD": "OCE",
@@ -110559,7 +110559,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GGY",
+                        "NAME_1": "GGY",
                         "ROMNAM": "Guernsey",
                         "MAPLAB": "Guernsey (UK)",
                         "CONTCD": "EUR",
@@ -110592,7 +110592,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MAR",
+                        "NAME_1": "MAR",
                         "ROMNAM": "Morocco",
                         "MAPLAB": "Morocco",
                         "CONTCD": "AFR",
@@ -110644,7 +110644,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BHR",
+                        "NAME_1": "BHR",
                         "ROMNAM": "Bahrain",
                         "MAPLAB": "Bahrain",
                         "CONTCD": "ASI",
@@ -110910,7 +110910,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GNB",
+                        "NAME_1": "GNB",
                         "ROMNAM": "Guinea-Bissau",
                         "MAPLAB": "Guinea-Bissau",
                         "CONTCD": "AFR",
@@ -110942,7 +110942,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CYM",
+                        "NAME_1": "CYM",
                         "ROMNAM": "Cayman Islands",
                         "MAPLAB": "Cayman Islands *",
                         "CONTCD": "AME",
@@ -111035,7 +111035,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "QAT",
+                        "NAME_1": "QAT",
                         "ROMNAM": "Qatar",
                         "MAPLAB": "Qatar",
                         "CONTCD": "ASI",
@@ -111159,7 +111159,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GIN",
+                        "NAME_1": "GIN",
                         "ROMNAM": "Guinea",
                         "MAPLAB": "Guinea",
                         "CONTCD": "AFR",
@@ -117975,7 +117975,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "RUS",
+                        "NAME_1": "RUS",
                         "ROMNAM": "Russian Federation",
                         "MAPLAB": "Russian Federation",
                         "CONTCD": "EUR",
@@ -119666,7 +119666,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "JPN",
+                        "NAME_1": "JPN",
                         "ROMNAM": "Japan",
                         "MAPLAB": "Japan",
                         "CONTCD": "ASI",
@@ -121000,7 +121000,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BGD",
+                        "NAME_1": "BGD",
                         "ROMNAM": "Bangladesh",
                         "MAPLAB": "Bangladesh",
                         "CONTCD": "ASI",
@@ -121042,7 +121042,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "STP",
+                        "NAME_1": "STP",
                         "ROMNAM": "Sao Tome and Principe",
                         "MAPLAB": "Sao Tome and Principe",
                         "CONTCD": "AFR",
@@ -121062,7 +121062,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LSO",
+                        "NAME_1": "LSO",
                         "ROMNAM": "Lesotho",
                         "MAPLAB": "Lesotho",
                         "CONTCD": "AFR",
@@ -122874,7 +122874,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BRA",
+                        "NAME_1": "BRA",
                         "ROMNAM": "Brazil",
                         "MAPLAB": "Brazil",
                         "CONTCD": "AME",
@@ -122898,7 +122898,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BOL",
+                        "NAME_1": "BOL",
                         "ROMNAM": "Bolivia (Plurinational State of)",
                         "MAPLAB": "Bolivia (Plurinational State of)",
                         "CONTCD": "AME",
@@ -123313,7 +123313,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MOZ",
+                        "NAME_1": "MOZ",
                         "ROMNAM": "Mozambique",
                         "MAPLAB": "Mozambique",
                         "CONTCD": "AFR",
@@ -123345,7 +123345,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BES",
+                        "NAME_1": "BES",
                         "ROMNAM": "Bonaire",
                         "MAPLAB": "Bonaire (Neth.)",
                         "CONTCD": "AME",
@@ -123392,7 +123392,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PRT",
+                        "NAME_1": "PRT",
                         "ROMNAM": "Madeira Island",
                         "MAPLAB": "Madeira Islands (Port.)",
                         "CONTCD": "EUR",
@@ -123416,7 +123416,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "NPL",
+                        "NAME_1": "NPL",
                         "ROMNAM": "Nepal",
                         "MAPLAB": "Nepal",
                         "CONTCD": "ASI",
@@ -123436,7 +123436,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "UMI",
+                        "NAME_1": "UMI",
                         "ROMNAM": "Midway Islands",
                         "MAPLAB": "Midway Islands (USA)",
                         "CONTCD": "OCE",
@@ -123788,7 +123788,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MHL",
+                        "NAME_1": "MHL",
                         "ROMNAM": "Marshall Islands",
                         "MAPLAB": "Marshall Islands",
                         "CONTCD": "OCE",
@@ -124468,7 +124468,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ERI",
+                        "NAME_1": "ERI",
                         "ROMNAM": "Eritrea",
                         "MAPLAB": "Eritrea",
                         "CONTCD": "AFR",
@@ -124494,7 +124494,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "HUN",
+                        "NAME_1": "HUN",
                         "ROMNAM": "Hungary",
                         "MAPLAB": "Hungary",
                         "CONTCD": "EUR",
@@ -124542,7 +124542,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "DOM",
+                        "NAME_1": "DOM",
                         "ROMNAM": "Dominican Republic",
                         "MAPLAB": "Dominican Republic",
                         "CONTCD": "AME",
@@ -124795,7 +124795,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KHM",
+                        "NAME_1": "KHM",
                         "ROMNAM": "Cambodia",
                         "MAPLAB": "Cambodia",
                         "CONTCD": "ASI",
@@ -124816,7 +124816,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SXM",
+                        "NAME_1": "SXM",
                         "ROMNAM": "Sint Maarten",
                         "MAPLAB": "Sint Maarten (Neth.)",
                         "CONTCD": "EUR",
@@ -124859,7 +124859,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "LBY",
+                        "NAME_1": "LBY",
                         "ROMNAM": "Libya",
                         "MAPLAB": "Libya",
                         "CONTCD": "AFR",
@@ -124906,7 +124906,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TTO",
+                        "NAME_1": "TTO",
                         "ROMNAM": "Trinidad and Tobago",
                         "MAPLAB": "Trinidad and Tobago",
                         "CONTCD": "AME",
@@ -126700,7 +126700,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MEX",
+                        "NAME_1": "MEX",
                         "ROMNAM": "Mexico",
                         "MAPLAB": "Mexico",
                         "CONTCD": "AME",
@@ -126720,7 +126720,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LCA",
+                        "NAME_1": "LCA",
                         "ROMNAM": "Saint Lucia",
                         "MAPLAB": "Saint Lucia",
                         "CONTCD": "AME",
@@ -127094,7 +127094,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "ARE",
+                        "NAME_1": "ARE",
                         "ROMNAM": "United Arab Emirates",
                         "MAPLAB": "United Arab Emirates",
                         "CONTCD": "ASI",
@@ -127114,7 +127114,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "BVT",
+                        "NAME_1": "BVT",
                         "ROMNAM": "Bouvet Island",
                         "MAPLAB": "Bouvet Island",
                         "CONTCD": "AFR",
@@ -127155,7 +127155,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "KGZ",
+                        "NAME_1": "KGZ",
                         "ROMNAM": "Kyrgyzstan",
                         "MAPLAB": "Kyrgyzstan",
                         "CONTCD": "ASI",
@@ -127187,7 +127187,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "CCK",
+                        "NAME_1": "CCK",
                         "ROMNAM": "Cocos (Keeling) Islands",
                         "MAPLAB": "Cocos (Keeling) Is. (Aust.)",
                         "CONTCD": "OCE",
@@ -127210,7 +127210,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "RWA",
+                        "NAME_1": "RWA",
                         "ROMNAM": "Rwanda",
                         "MAPLAB": "Rwanda",
                         "CONTCD": "AFR",
@@ -127285,7 +127285,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "DJI",
+                        "NAME_1": "DJI",
                         "ROMNAM": "Djibouti",
                         "MAPLAB": "Djibouti",
                         "CONTCD": "AFR",
@@ -127570,7 +127570,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TUR",
+                        "NAME_1": "TUR",
                         "ROMNAM": "Turkey",
                         "MAPLAB": "Turkey",
                         "CONTCD": "ASI",
@@ -127610,7 +127610,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "BEL",
+                        "NAME_1": "BEL",
                         "ROMNAM": "BelgiÃ«#Belgique#Belgien",
                         "MAPLAB": "Belgium",
                         "CONTCD": "EUR",
@@ -127701,7 +127701,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "HND",
+                        "NAME_1": "HND",
                         "ROMNAM": "Honduras",
                         "MAPLAB": "Honduras",
                         "CONTCD": "AME",
@@ -127788,7 +127788,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "MNP",
+                        "NAME_1": "MNP",
                         "ROMNAM": "Northern Mariana Is. (USA)",
                         "MAPLAB": "Northern Mariana Is. (USA)",
                         "CONTCD": "OCE",
@@ -127823,7 +127823,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AUT",
+                        "NAME_1": "AUT",
                         "ROMNAM": "Austria",
                         "MAPLAB": "Austria",
                         "CONTCD": "EUR",
@@ -128125,7 +128125,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NCL",
+                        "NAME_1": "NCL",
                         "ROMNAM": "New Caledonia",
                         "MAPLAB": "New Caledonia *",
                         "CONTCD": "OCE",
@@ -132823,7 +132823,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PNG",
+                        "NAME_1": "PNG",
                         "ROMNAM": "Papua New Guinea",
                         "MAPLAB": "Papua New Guinea",
                         "CONTCD": "OCE",
@@ -132930,7 +132930,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "FRO",
+                        "NAME_1": "FRO",
                         "ROMNAM": "Faroe Islands",
                         "MAPLAB": "Faroe Islands (Denmark)",
                         "CONTCD": "EUR",
@@ -133201,7 +133201,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PRK",
+                        "NAME_1": "PRK",
                         "ROMNAM": "Democratic People's Republic of Korea",
                         "MAPLAB": "Democratic People's Republic of Korea",
                         "CONTCD": "ASI",
@@ -133231,7 +133231,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "SUR",
+                        "NAME_1": "SUR",
                         "ROMNAM": "Suriname",
                         "MAPLAB": "Suriname",
                         "CONTCD": "AME",
@@ -133259,7 +133259,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ISR",
+                        "NAME_1": "ISR",
                         "ROMNAM": "Israel",
                         "MAPLAB": "Israel",
                         "CONTCD": "ASI",
@@ -133282,7 +133282,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "ESH",
+                        "NAME_1": "ESH",
                         "ROMNAM": "Western Sahara",
                         "MAPLAB": "Western Sahara *",
                         "CONTCD": "AFR",
@@ -133307,7 +133307,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "SYR",
+                        "NAME_1": "SYR",
                         "ROMNAM": "Syrian Arab Republic",
                         "MAPLAB": "Syrian Arab Republic",
                         "CONTCD": "ASI",
@@ -133359,7 +133359,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "UZB",
+                        "NAME_1": "UZB",
                         "ROMNAM": "Uzbekistan",
                         "MAPLAB": "Uzbekistan",
                         "CONTCD": "ASI",
@@ -133491,7 +133491,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "PER",
+                        "NAME_1": "PER",
                         "ROMNAM": "Peru",
                         "MAPLAB": "Peru",
                         "CONTCD": "AME",
@@ -133620,7 +133620,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "KEN",
+                        "NAME_1": "KEN",
                         "ROMNAM": "Kenya",
                         "MAPLAB": "Kenya",
                         "CONTCD": "AFR",
@@ -133677,7 +133677,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "NAM",
+                        "NAME_1": "NAM",
                         "ROMNAM": "Namibia",
                         "MAPLAB": "Namibia",
                         "CONTCD": "AFR",
@@ -133722,7 +133722,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "GAB",
+                        "NAME_1": "GAB",
                         "ROMNAM": "Gabon",
                         "MAPLAB": "Gabon",
                         "CONTCD": "AFR",
@@ -133746,7 +133746,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "LVA",
+                        "NAME_1": "LVA",
                         "ROMNAM": "Latvia",
                         "MAPLAB": "Latvia",
                         "CONTCD": "EUR",
@@ -133769,7 +133769,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "MKD",
+                        "NAME_1": "MKD",
                         "ROMNAM": "North Macedonia",
                         "MAPLAB": "North Macedonia",
                         "CONTCD": "EUR",
@@ -133795,7 +133795,7 @@
                     ],
                     "type": "Polygon",
                     "properties": {
-                        "Name_1": "AFG",
+                        "NAME_1": "AFG",
                         "ROMNAM": "Afghanistan",
                         "MAPLAB": "Afghanistan",
                         "CONTCD": "ASI",
@@ -133937,7 +133937,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "TCA",
+                        "NAME_1": "TCA",
                         "ROMNAM": "Turks and Caicos Islands",
                         "MAPLAB": "Turks and Caicos Islands *",
                         "CONTCD": "AME",
@@ -133974,7 +133974,7 @@
                     ],
                     "type": "MultiPolygon",
                     "properties": {
-                        "Name_1": "AIA",
+                        "NAME_1": "AIA",
                         "ROMNAM": "Anguilla",
                         "MAPLAB": "Anguilla *",
                         "CONTCD": "AME",
